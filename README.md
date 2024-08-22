@@ -8,6 +8,7 @@ Here we are using the libevdev lib which is like a wrapper lib for the evdev whi
 
 
 ### Pseudocode
+```cpp
 //make an dev pointer, it will point to the device whcih will give input from the liibevdev
 struct libevdev *dev ;
 
