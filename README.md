@@ -1,5 +1,5 @@
-#Keyboard Tracker
-##Description:
+## Keyboard Tracker
+### Description:
 Here we are using the libevdev lib which is like a wrapper lib for the evdev which provides the high level of abstraction for using the evdev susbsytem funciotn which are available.
 
 ## Installation
